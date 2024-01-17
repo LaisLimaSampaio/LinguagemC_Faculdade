@@ -1,2 +1,2 @@
 # Faculdade
- Atividades_de_linguagem_C
+ Atividades em linguagem C
